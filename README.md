@@ -1,6 +1,6 @@
 # Pytest - API testing with Python `requests`
  
-[![API Tests with Pytest](https://github.com/ghoshasish99/API-Testing-Pytest/actions/workflows/pytest.yml/badge.svg)](https://github.com/ghoshasish99/API-Testing-Pytest/actions/workflows/pytest.yml)
+[![API Tests with Pytest]]
 
 #### Pytest is a mature full-featured Python testing frame that helps you write and run tests in Python.
 
